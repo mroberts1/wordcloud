@@ -55,7 +55,7 @@ function setup() {
   createCanvas(1200, windowHeight);
   colorMode(HSB, 360, 100, 100, 100);
 
-  textFont('Courier', 18);
+  textFont('Courier', 20);
   fill(0);
 
   joinedText = joinedText.join(' ');
