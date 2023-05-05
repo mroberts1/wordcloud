@@ -48,7 +48,7 @@ var drawColoredLines = true;
 var drawText = true;
 
 function preload() {
-  joinedText = loadStrings('data/shining.txt');
+  joinedText = loadStrings('data/wordcloud.txt');
 }
 
 function setup() {
