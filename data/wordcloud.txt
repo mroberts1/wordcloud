@@ -21,6 +21,8 @@ lurking •
 Midjourney •
 moodboard • 
 multiverse •
+object detection •
+operational images •
 outpainting • 
 over-attribution •
 parasocial •
@@ -33,4 +35,5 @@ shitposting •
 Stable-Diffusion • 
 softlock •
 troll •
-YOLO
+Ultralytics •
+YOLO •
