@@ -1,6 +1,7 @@
 Afrofuturism •
-API •
+algorithm •
 ChatGPT •
+charismatic technology •
 cinematic AI •
 context collapse •
 creative coding •
@@ -19,6 +20,7 @@ ghosting •
 hallucinate •
 liminal spaces • 
 lurking •
+Mastodon •
 Midjourney •
 moodboard • 
 multiverse •
@@ -36,5 +38,8 @@ shitposting •
 Stable-Diffusion • 
 softlock •
 troll •
+Twitterbots •
+Tumblr porn •
 Ultralytics •
+webring •
 YOLO •
