@@ -52,10 +52,10 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1200, windowHeight);
+  createCanvas(1400, windowHeight);
   colorMode(HSB, 360, 100, 100, 100);
 
-  textFont('Courier', 20);
+  textFont('adobe-garamond-pro', 28);
   fill(0);
 
   joinedText = joinedText.join(' ');
