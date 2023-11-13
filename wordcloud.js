@@ -48,7 +48,7 @@ var drawColoredLines = true;
 var drawText = true;
 
 function preload() {
-  joinedText = loadStrings('data/bruckman-wikipedia.txt');
+  joinedText = loadStrings('data/digital-culture-fa23.txt');
 }
 
 function setup() {
