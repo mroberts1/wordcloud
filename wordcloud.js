@@ -48,14 +48,14 @@ var drawColoredLines = true;
 var drawText = true;
 
 function preload() {
-  joinedText = loadStrings('data/digital-culture-fa23.txt');
+  joinedText = loadStrings('data/digital-culture-sp24.txt');
 }
 
 function setup() {
   createCanvas(1400, windowHeight);
   colorMode(HSB, 360, 100, 100, 100);
 
-  textFont('adobe-garamond-pro', 28);
+  textFont('adobe-garamond-pro', 24);
   fill(0);
 
   joinedText = joinedText.join(' ');
