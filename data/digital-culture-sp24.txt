@@ -1,26 +1,26 @@
-Afrofuturism •
-babygirl •
-bardcore •
-context collapse •
-creative coding •
-cringe •
-deinfluencing •
-dogpiling •
-doomscrolling •
-enshittification •
-fediverse •
-ghosting •
-liminal spaces •
-lurking •
-multiverse •
-object detection •
-operational images •
-outpainting •
-overattribution •
-parasocial •
-post-irony •
-shadowbanning •
-Sinofuturism •
-shitposting •
-softlock •
-troll •
+Afrofuturism /
+babygirl /
+bardcore /
+context collapse /
+creative coding /
+cringe /
+deinfluencing /
+dogpiling /
+doomscrolling /
+enshittification /
+fediverse /
+ghosting /
+liminal spaces /
+lurking /
+multiverse /
+object detection /
+operational images /
+outpainting /
+overattribution /
+parasocial /
+post-ironic /
+shadowbanning /
+Sinofuturism /
+shitposting /
+softlock /
+troll /
