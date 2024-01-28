@@ -55,7 +55,7 @@ function setup() {
   createCanvas(1400, windowHeight);
   colorMode(HSB, 360, 100, 100, 100);
 
-  textFont('Source Serif Pro', 24);
+  textFont('monospace', 18);
   fill(0);
 
   joinedText = joinedText.join(' ');
